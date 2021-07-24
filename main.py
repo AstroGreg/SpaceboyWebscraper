@@ -1,14 +1,7 @@
 import urllib.request
 
-from bs4 import BeautifulSoup
 from deepface import DeepFace
-import sys
-import httplib2
-import pdfkit
-import fitz
 import cv2
-import re
-import os
 from selenium import webdriver
 import urllib.request
 import urllib
